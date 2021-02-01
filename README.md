@@ -17,7 +17,7 @@ When we look at the lot_summary dataframe we see the varience values by lot numb
 While performing a t - Test on our data we see that after creating samples filtered by Lot have only  Lot1 with a p-value below significant level telling us to reject the null Hypothesis H0 and that there is a statistical difference between the smaple and population. Lots 1 and 2 both have p-Values well above the significant level of .05, so we don't have enough information to reject the null hypothesis and that two lots are not statistically different from the population.  
 
 ### Lot 1 Summary
-[Lot1_t-Test](https://github.com/austink24/MechaCar_Statistical_Analysis-/blob/main/Lot1.png)
+![Lot1_t-Test](https://github.com/austink24/MechaCar_Statistical_Analysis-/blob/main/Lot1.png)
 
 ### Lot 2 Summary
 ![Lot2_t_Test](https://github.com/austink24/MechaCar_Statistical_Analysis-/blob/main/Lot2.png)
@@ -25,3 +25,6 @@ While performing a t - Test on our data we see that after creating samples filte
 
 ### Lot 3 Summary
 ![Lot3_t_Test](https://github.com/austink24/MechaCar_Statistical_Analysis-/blob/main/Lot3.png)
+
+
+## Deliverable # 4 - ## Study Design: MechaCar vs Competition
